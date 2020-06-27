@@ -29,7 +29,7 @@ class Calculator {
          case '-':
             result = firstNum - secondNum;
             break
-         case '*':
+         case 'x':
             result = firstNum * secondNum;
             break
         case '/':
